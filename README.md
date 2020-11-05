@@ -1,4 +1,4 @@
-# ISIS_crawler
+# ISIS crawler
 TU Berlin ISIS Coursepage crawler 
 
 **Author:** Guen Yanik 
