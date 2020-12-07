@@ -134,5 +134,5 @@ c = [s.cookies.set(c['name'], c['value']) for c in cookies]
 list_of_modules = get_course_and_links()
 for loM in list_of_modules:
     download(loM)
-
+# exit
 driver.close()
